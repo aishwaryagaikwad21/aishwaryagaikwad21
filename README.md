@@ -30,9 +30,9 @@ Git, GitHub, Postman, Netlify, Render
 - 🛠️ Bug Fixes & Maintenance - Frontend/backend debugging, API issues, authentication problems, UI fixes and ongoing maintenance.
 
 ## 🎓 Education
-Bachelor of Engineering in Computer Engineering
-University of Mumbai | 2017–2021
-CGPA: 9.45/10
+- Bachelor of Engineering in Computer Engineering
+- University of Mumbai | 2017–2021
+- CGPA: 9.45/10
 
 ## 🔬 **Research**
 Published research paper on Deep-Facial Feature-Based Person Re-Identification for Authentication in Surveillance Applications Using MTCNN and Keras-FaceNet.
